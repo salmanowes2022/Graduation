@@ -1,2 +1,1 @@
-# Graduation
-For Our Graduation Project
+# TripPalestine - Backend PreAlpha
